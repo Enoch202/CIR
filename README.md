@@ -25,6 +25,7 @@ We investigate **Code-Integrated Reasoning**, a approach where models generate a
 <p align="center">
   <img src="figures/passk.png" width="666"/>
 </p>
+
 * Efficiency: It produces more concise and efficient reasoning paths compared to traditional long-chain-of-thought (long-CoT) methods.
 * Error Feedback: Non-executable code generates informative error feedback, compelling the model to reflect and revise, ultimately improving accuracy.
 * Selective Benefits: While highly effective for algebra, number theory, and combinatorics, code integration shows minimal impact on geometry problems.
